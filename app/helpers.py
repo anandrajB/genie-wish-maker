@@ -9,6 +9,12 @@ MDTextField:
     size_hint_x : None
     width : 300
 
+"""
 
 
+INBOX_HELPER = """
+Screen:
+    ScrollView : 
+        MDList :
+            id : container
 """
