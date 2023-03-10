@@ -44,7 +44,7 @@ MDScreen:
 
                 MDNavigationDrawerHeader:
                     text: "welcome venzo"
-                    source: "finflo.png"
+                    source : "finflo.png"
                     spacing: "4dp"
                     padding: "12dp", 0, 0, "56dp"
 
